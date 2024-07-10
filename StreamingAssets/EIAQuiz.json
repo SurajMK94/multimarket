@@ -1,0 +1,55 @@
+{
+    "questions": [
+      {
+        "question": "How many GB's partners SX/EIA working with?",
+        "options": ["1", "2", "3", "4"],
+        "correctAnswer": "2"
+      },
+      {
+        "question": "Which inhouse products SX/EIA4 is working with?",
+        "options": ["Indus", "Metalsa", "Nexeed", "Device Bridge"],
+        "correctAnswer": "Device Bridge"
+      },
+      {
+        "question": "What is SX/EIA internal team event name?",
+        "options": ["Inertia", "Sambarma", "Fun & Joy", "None"],
+        "correctAnswer": "Sambarma"
+      },
+      {
+        "question": "Device Bridge developed is managed by which group?",
+        "options": ["SX/EIA1", "SX/EIA4", "SX/EIA2", "SX/EIA3"],
+        "correctAnswer": "SX/EIA4"
+      },
+      {
+        "question": "How many groups are in EIA?",
+        "options": ["1", "2", "5", "6"],
+        "correctAnswer": "6"
+      },
+      {
+        "question": "On which technology SX/EIA is not working currently?",
+        "options": ["Java", "Angular", ".Net", "Machine Learning"],
+        "correctAnswer": "Machine Learning"
+      },
+      {
+        "question": "Bosch Schemantics is under which group?",
+        "options": ["SX/EIA2", "SX/EIA3", "SX/EIA1", "SX/EIA4"],
+        "correctAnswer": "SX/EIA2"
+      },
+      {
+        "question": "Which EIA Domain Competency does EIA have?",
+        "options": ["Industry 4.0", "Logistic", "Banking", "E-Commerce"],
+        "correctAnswer": "Industry 4.0"
+      },
+      {
+        "question": "Which product is contributing to EIA success story?",
+        "options": ["DeepSight", "Indus", "Maxion", "Metalsa"],
+        "correctAnswer": "DeepSight"
+      },
+      {
+        "question": "Which problem Deep sight is trying to solve?",
+        "options": ["Traffic Management", "Energy Management", "Cyber Security", "DevOps"],
+        "correctAnswer": "Energy Management"
+      }
+    ]
+  }
+  
